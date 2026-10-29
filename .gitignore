@@ -1,0 +1,4 @@
+# Source material and extracted text stay on this computer.
+knowledge_base/local/
+__pycache__/
+.DS_Store
